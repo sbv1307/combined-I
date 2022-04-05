@@ -1,0 +1,22 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid eecc54f1-353d-4bbc-bb3a-293df7de7d03)
+
+  (paper "A3")
+
+  (title_block
+    (title "Combind projects:")
+    (date "2022-04-05")
+    (rev "V0.0.1")
+    (company "El-Tek Trafikteknik I/S")
+    (comment 1 "Energimåling, autoStart og ProgrammablePulsGenerator")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
