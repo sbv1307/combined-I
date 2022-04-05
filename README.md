@@ -7,4 +7,5 @@ Only information and data explicit required for this process will be collected h
 Informatino and data related the the individual projects will be found in their onwn projects. E.g. There will be not software / firmware in this project.
 
 Project Version history:
- * 0.0.1 - Initial commit. Project structure, submodule and Page settings. 
+ * 0.0.1 - Initial commit. Project structure, submodule and Page settings.
+ * 0.0.2 - Local KiCad Libraries added
