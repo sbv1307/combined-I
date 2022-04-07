@@ -10,3 +10,4 @@ Project Version history:
  * 0.0.1 - Initial commit. Project structure, submodule and Page settings.
  * 0.0.2 - Local KiCad Libraries added
  * 1.0.0 - Schematics and components placed on BCB for Energimåling added to the project.
+ * 2.0.0 - Schematics and components placed on BCB for autoStart added to the project.
