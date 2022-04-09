@@ -6,4 +6,5 @@
   (lib (name "Local_Miscellaneous_Library")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/Local_Miscellaneous_Library.kicad_sym")(options "")(descr ""))
   (lib (name "Local_Transistor_BJT_Library")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/Local_Transistor_BJT_Library.kicad_sym")(options "")(descr ""))
   (lib (name "Local_Project_Power_library")(type "KiCad")(uri "${KIPRJMOD}/local_Project_library/Symbols/Local_Project_Power_library.kicad_sym")(options "")(descr ""))
+  (lib (name "Local_Power_Library")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/Local_Power_Library.kicad_sym")(options "")(descr ""))
 )
