@@ -19,5 +19,7 @@ Several components is all schmatics were replaced with the new modified ones.
 * 3.0.1 - Feature update - Adding critical traces by hand and prepare for autorouter to do the rest.
 * 3.1.0 - Feature update - From V3.0.0: Aoto routed and ctitical tracks modified afterwards.
 * 3.1.1 - Feature update - GND zone filled for Energimåling
+* 3.1.2 - Feature update - GND zone filled for Arduino USB-Serial card. 
+
 
  
