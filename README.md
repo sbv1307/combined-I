@@ -16,5 +16,7 @@ For this version (3.0.0) all KiCad Local libraries in the submodule were updated
 All [JLCPCB](https://jlcpcb.com/) extended components and all non [JLCPCB](https://jlcpcb.com/) components were update wit the option "Exclude from BO M list.<br>
 Further som footprints were modified and fixed for errors.<br>
 Several components is all schmatics were replaced with the new modified ones.
+* 3.0.1 - Feature update - Adding critical traces by hand and prepare for autorouter to do the rest.
+* 3.1.0 - Feature update - From V3.0.0: Aoto routed and ctitical tracks modified afterwards.
 
  
