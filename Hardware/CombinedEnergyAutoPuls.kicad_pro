@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.5,
-          "height": 3.5,
-          "width": 3.5
+          "drill": 1.0,
+          "height": 1.7,
+          "width": 1.7
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.25,
         0.35,
         0.4,
         0.45,
@@ -383,7 +384,19 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "Net-(D11-Pad2)"
+          "+24V",
+          "/Arduino_5V",
+          "GND3",
+          "Net-(A1-Pad6)",
+          "Net-(D11-Pad2)",
+          "Net-(J3-Pad2)",
+          "Net-(J3-Pad4)",
+          "Net-(J3-Pad5)",
+          "Net-(J3-Pad6)",
+          "Net-(J6-Pad1)",
+          "Net-(JP211-Pad2)",
+          "VCC1",
+          "Vin"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
